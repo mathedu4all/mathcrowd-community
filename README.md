@@ -9,7 +9,7 @@
 
 ### 关于社区
 
-橘子数学共享试题社区是由橘子老君与一众进步数学教师一起共同维护数学试题资源社区. 截至2019年5月17日，社区共收录高中数学试题16,4309道、高考真题及模拟628套，发展数学教师成员75名，共协作完成试题校对1591道，累计有2595名用户接入用站访问社区试题资源.
+橘子数学共享试题社区是由橘子老君与一众进步数学教师一起共同维护数学试题资源社区. 截至2019年5月17日，社区共收录高中数学试题16,4309道、高考真题及模拟628套，发展数学教师成员75名，共协作完成试题校对1591道，累计有2595名用户接入网站访问社区试题资源.
 
 * **免费(Free): **
 
@@ -25,7 +25,7 @@
 
 * **高效(Effective): **
 
-  通过技术社区将有效避免重复试题的编辑，并让老师更容易地找到需要的试题快速完成组卷，同时通过收集学生的反馈为老师提供个性化的教学建议.
+  通过技术有效避免重复试题的编辑，并让老师更容易地找到需要的试题快速完成组卷，同时通过收集学生的反馈为老师提供个性化的教学建议.
 
 * **机会均等(Equal Opportunity): **
 
@@ -37,7 +37,7 @@
 
 * **变革(Revolutionary): **
 
-  如何在应试背景下引导学生树立健康的数学学习观，鼓励有天赋的学生进行自主学习、跨学科学习、终身学习，是我国当下亟待解决的问题.  而如何将政策性文件、口号转化为具体的教学行为，将成为需要进步数学教师的亲身实践的重要课题，社区为进步教师们分享实践成果、传播理念、观点提供了平台.
+  如何在应试背景下引导学生树立健康的数学学习观，鼓励有天赋的学生进行自主学习、跨学科学习、终身学习，是我国当下亟待解决的问题.  而如何将政策性文件、口号转化为具体的教学行为，将需要进步数学教师的亲身实践，社区为教师们分享实践成果、传播理念、观点提供平台.
   
 ### 社区成员原创作品展示
 
@@ -52,12 +52,15 @@
 ### 相关文件
 
 * [CHANGELOG.md](https://github.com/mathedu4all/mathcrowd_community/blob/master/CHANGELOG.md)
+  
   橘子数学网站功能更新日志
   
 * [COPYRIGHT.md](https://github.com/mathedu4all/mathcrowd_community/blob/master/COPYRIGHT.md)
+  
   版权许可声明
   
 * [FQA.md](https://github.com/mathedu4all/mathcrowd_community/blob/master/FQA.md)
+  
   常见问题解答
   
 * [GUIDE.md](https://github.com/mathedu4all/mathcrowd_community/blob/master/GUIDE.md)
@@ -65,6 +68,7 @@
   网站使用教程
   
 * [POLICY.md](https://github.com/mathedu4all/mathcrowd_community/blob/master/POLICY.md)
+  
   社区共享收益条款
   
 * [REGISTRATION/](https://github.com/mathedu4all/mathcrowd_community/blob/master/REGISTRATION)

@@ -68,6 +68,8 @@
   | 题组     | 题组1,题组2, ... | 填空, 选择, 解答 | 填空, 选择, 解答 |
   | 分值     | 不显示           | 不显示           | 显示             |
   | 答题空间 | 有               | 解答有           | 解答有           |
+  
+
   ![切换题组](http://cdn.mathcrowd.cn/images/guide-cart-type.png)
 
 * 保存组卷，设置标题、副标题、说明指引、作者信息、日期信息、是否公开.
@@ -86,7 +88,7 @@
 
   ![试卷列表](http://cdn.mathcrowd.cn/images/guide-worksheet-index.png)
 
-* 点击”磁力“，将套卷复制到试题车.
+* 点击”快照“，将套卷复制到试题车.
 
   ![复制套卷](http://cdn.mathcrowd.cn/images/guide-worksheet-copy.png)
 
