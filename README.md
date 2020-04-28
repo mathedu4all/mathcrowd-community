@@ -14,6 +14,10 @@
 
 * 获得高效、定制化的试卷、讲义、错题库解决方案
 
+## 正在进行中的项目
+
+* [面向未来的知识点重构](https://github.com/mathedu4all/mathcrowd-community/wiki/%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9%E9%87%8D%E6%9E%84)
+
 ## 橘子数学 网站
 
  https://www.mathcrowd.cn
