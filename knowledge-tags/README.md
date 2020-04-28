@@ -26,7 +26,7 @@
 
 * [方程与代数板 识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/6)
 
-    负责人: 橘子老君(高中) 党老师(初中)
+    负责人: 橘子老君(高中) [@dangming25 (初中)](https://github.com/dangming25) 
 
 * [函数与分析 知识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/5)
 
@@ -34,7 +34,7 @@
 
 * [应用数学与数学建模 知识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/7)
 
-    负责人: 李老师(高中) 孙老师(初中)
+    负责人: [@(高中)](https://github.com/52511338),  [@sunpingana(初中)](https://github.com/sunpingana)
 
 ## 最终提交文件格式要求:
 
