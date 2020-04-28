@@ -10,7 +10,7 @@
 
 ## 分工：
 
-人教版-初中 (@dangming25)[https://github.com/dangming25]
+人教版-初中 [@dangming25](https://github.com/dangming25)
 
 
 ## 提交文件格式要求:
