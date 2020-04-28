@@ -18,23 +18,23 @@
 
 * [数与运算 知识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/9)
 
-    负责人: 
+    负责人: 橘子老君(高中) 待定(初中)
     
 * [图形与几何 知识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/8)
 
-    负责人: 
+    负责人: 橘子老君(高中) 待定(初中)
 
 * [方程与代数板 识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/6)
 
-    负责人: 
+    负责人: 橘子老君(高中) 党老师(初中)
 
 * [函数与分析 知识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/5)
 
-    负责人: 
+    负责人: 橘子老君(高中) 待定(初中)
 
 * [应用数学与数学建模 知识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/7)
 
-    负责人: 
+    负责人: 李老师(高中) 孙老师(初中)
 
 ## 最终提交文件格式要求:
 
