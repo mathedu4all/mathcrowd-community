@@ -34,7 +34,7 @@
 
 * [应用数学与数学建模 知识点讨论](https://github.com/mathedu4all/mathcrowd-community/issues/7)
 
-    负责人: [@(高中)](https://github.com/52511338),  [@sunpingana(初中)](https://github.com/sunpingana)
+    负责人: [@52511338(高中)](https://github.com/52511338),  [@sunpingana(初中)](https://github.com/sunpingana)
 
 ## 最终提交文件格式要求:
 
